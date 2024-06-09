@@ -1,0 +1,3 @@
+[submodule "lib/MODBUS-Slave-Cpp"]
+	path = lib/MODBUS-Slave-Cpp
+	url = https://github.com/Tai-Min/MODBUS-Slave-Cpp
