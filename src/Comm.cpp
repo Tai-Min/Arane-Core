@@ -1,4 +1,4 @@
-#include "core/Comm.hpp"
+#include "Comm.hpp"
 
 #include <Arduino_FreeRTOS.h>
 #include <MSlave.h>

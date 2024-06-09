@@ -1,4 +1,5 @@
 #pragma once
+#include <stdint.h>
 
 /**
  * @brief State machine that manages SBC.
