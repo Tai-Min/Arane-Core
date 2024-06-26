@@ -7,3 +7,9 @@ Code of Arane Core was written with customization in mind. While in it's purest 
 Additionaly, one can attach custom sensors and actuators to the MCU and read / control them from SBC.
 
 For getting started see [TODO](TODO).
+
+## TODO:
+* Add soft reset handler from SBC
+* Add hard reset functionality
+* Integrate optional power on, reset buttons into core
+* Integrate optional status LED into core
