@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # Arane Core 
 
 Arane Core is a simple SBC power management software designed for MCUs supporting Arduino framework.
